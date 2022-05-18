@@ -11,7 +11,7 @@ This is a automation of one web services of this free url: https://reqres.in/
 5. Pattern Design: ScreenPlay
 6. Hamcrest
 
-## Ejecución
+## Running
 
 1. cloning of repository
  `$ git clone url`
@@ -19,8 +19,8 @@ This is a automation of one web services of this free url: https://reqres.in/
 
 ## Serenity evidence
 
-3. serenit:aggregate
+3. serenity:aggregate
 
-## Cómo contribuir
+## How to contribute
 
 You can a pull request to the project
