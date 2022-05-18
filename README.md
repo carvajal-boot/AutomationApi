@@ -2,14 +2,14 @@
 This is a automation of one web services
 
 
-## Tecnologías
+## Technologies
 
-Lenguaje: Java
-Framework: Serenity Rest
-Dependency Orchestrator: Maven
-Runner: JUnit
-Pattern Design: ScreenPlay
-Hamcrest
+1. Lenguaje: Java
+2. Framework: Serenity Rest
+3. Dependency Orchestrator: Maven
+4. Runner: JUnit
+5. Pattern Design: ScreenPlay
+6. Hamcrest
 
 ## Ejecución
 
